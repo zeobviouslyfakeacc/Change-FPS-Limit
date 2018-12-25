@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change-FPS-Limit", "Change-FPS-Limit.csproj", "{44B3DA58-D651-4141-8C98-F3EE541AE220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B3DA58-D651-4141-8C98-F3EE541AE220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B3DA58-D651-4141-8C98-F3EE541AE220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B3DA58-D651-4141-8C98-F3EE541AE220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B3DA58-D651-4141-8C98-F3EE541AE220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C16C7F-94CD-4449-AF62-D99C1624C80B}
+	EndGlobalSection
+EndGlobal
